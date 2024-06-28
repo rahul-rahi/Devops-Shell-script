@@ -1,0 +1,10 @@
+#!/bin/bash
+
+read -p "Enter the girl's name:" name
+
+if [[$girl's name=="Anuska sharma"]]
+then
+        echo"Virat kohli is loyal"
+else
+        echo"Virat kohli is not loyal"
+fi
